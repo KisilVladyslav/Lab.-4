@@ -1,0 +1,4 @@
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\МРПЗ Лаб.№3\obj\Debug\net8.0\L3.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\МРПЗ Лаб.№3\obj\Debug\net8.0\L3.Domain.AssemblyInfoInputs.cache
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\МРПЗ Лаб.№3\obj\Debug\net8.0\L3.Domain.AssemblyInfo.cs
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\МРПЗ Лаб.№3\obj\Debug\net8.0\L3.Domain.csproj.CoreCompileInputs.cache

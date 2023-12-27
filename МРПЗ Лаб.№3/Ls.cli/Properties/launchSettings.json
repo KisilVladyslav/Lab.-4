@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ls.cli": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

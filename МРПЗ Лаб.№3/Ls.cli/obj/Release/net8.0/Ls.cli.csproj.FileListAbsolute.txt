@@ -1,0 +1,4 @@
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\Ls.cli\obj\Release\net8.0\Ls.cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\Ls.cli\obj\Release\net8.0\Ls.cli.AssemblyInfoInputs.cache
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\Ls.cli\obj\Release\net8.0\Ls.cli.AssemblyInfo.cs
+C:\Users\CJloH\source\repos\МРПЗ Лаб.№3\Ls.cli\obj\Release\net8.0\Ls.cli.csproj.CoreCompileInputs.cache
